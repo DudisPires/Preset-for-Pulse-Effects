@@ -17,6 +17,6 @@ Foco do Preset:
 ```
 2. Inserir o arquivo `.json` em `PulseEffects/output`
 
-3. Selecionar no Pulse Effects o preset.
+3. Selecionar no Pulse Effects o `Preset-bass`
    
 
