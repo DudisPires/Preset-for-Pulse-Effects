@@ -1,9 +1,11 @@
 # Preset-for-Pulse-Effects
 
-# O que é o Pulse Effects?
+# 💻 O que é o Pulse Effects?
 
 ```
-O PulseEffects é um software de processamento de áudio para Linux que permite aplicar efeitos em tempo real no som de entrada e/ou saída do sistema.
+O PulseEffects é um software de processamento de áudio para Linux
+que permite aplicar efeitos em tempo real no som de entrada e/ou saída do sistema.
+
 ```
 
 Foco do Preset:
@@ -16,7 +18,7 @@ Foco do Preset:
 
 ## 🚀 Como rodar o projeto
 
-1. Instalar Pulse Effects ( Pulse Audio )
+1. Instalar Pulse Effects ( com Pulse Audio )
 
 ```bash
    ' sudo apt install pulseeffects '
