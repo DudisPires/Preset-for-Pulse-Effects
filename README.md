@@ -25,6 +25,8 @@ Foco do Preset:
 ```
 2. Inserir o arquivo `.json` em `PulseEffects/output`
 
+   Utilize o comando a seguir ou insira manualmente.
+
    ```
    curl -o Preset-bass.json "https://raw.githubusercontent.com/DudisPires/Preset-for-Pulse-Effects/refs/heads/main/Preset-bass.json?token=GHSAT0AAAAAADD2W4XSJ6VG4WCTILPBCGAU2BGOSTA"
    mv Preset-bass.json ~/.config/PulseEffects/output/
