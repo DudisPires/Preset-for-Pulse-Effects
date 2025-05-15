@@ -14,5 +14,9 @@ Foco do Preset:
 
 ```bash
    ' sudo apt install pulseeffects '
+```
+2. Inserir o arquivo `.json` em `PulseEffects/output`
+
+3. Selecionar no Pulse Effects o preset.
    
 
