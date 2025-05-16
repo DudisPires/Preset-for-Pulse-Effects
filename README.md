@@ -27,11 +27,11 @@ Foco do Preset:
 
    - Utilize o comando a seguir ou insira manualmente.
 
-   ```
-   curl -o Preset-bass.json "https://raw.githubusercontent.com/DudisPires/Preset-for-Pulse-Effects/refs/heads/main/Preset-bass.json?token=GHSAT0AAAAAADD2W4XSJ6VG4WCTILPBCGAU2BGOSTA"
-   mv Preset-bass.json ~/.config/PulseEffects/output/
+  ```
+  curl -o Preset-bass.json "https://raw.githubusercontent.com/DudisPires/Preset-for-Pulse-Effects/refs/heads/main/Preset-bass.json?token=GHSAT0AAAAAADD2W4XSJ6VG4WCTILPBCGAU2BGOSTA"
+  mv Preset-bass.json ~/.config/PulseEffects/output/
 
-   ```
+  ```
    - Caso não possua o `curl` utilize o comando: 
   ```
   sudo apt update
