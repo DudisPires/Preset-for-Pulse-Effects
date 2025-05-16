@@ -21,7 +21,7 @@ Foco do Preset:
 1. Instalar Pulse Effects ( com Pulse Audio )
 
 ```bash
-   ' sudo apt install pulseeffects '
+    sudo apt install pulseeffects 
 ```
 2. Inserir o arquivo `.json` em `PulseEffects/output`
 
