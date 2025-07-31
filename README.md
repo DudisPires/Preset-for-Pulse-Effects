@@ -14,7 +14,7 @@ Foco do Preset:
       - Melhorar a experiência ao ouvir musicas com o apoio de um equalizador externo.
       - Regular o grave desbalanceado da maioria dos programas do cotidiano. 
 
----
+--- 
 
 ## 🚀 Como rodar o projeto
 
