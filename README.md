@@ -16,7 +16,6 @@ Foco do Preset:
 
 ---
 
-
 ## 🚀 Como rodar o projeto
 
 1. Instalar Pulse Effects ( com Pulse Audio )
